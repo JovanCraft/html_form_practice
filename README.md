@@ -1,5 +1,2 @@
 #HTML FORM PRACTICE#
 
-
-
-
